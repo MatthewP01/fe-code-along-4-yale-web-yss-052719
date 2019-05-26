@@ -71,4 +71,6 @@ figcaption {
   color: red;
 }
 
-.wrapper
+.wrapper {
+  width: 960px
+}
