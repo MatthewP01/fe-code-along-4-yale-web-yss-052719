@@ -72,7 +72,7 @@ figcaption {
 }
 
 img, audio, video {
-  
+  max-width: 100%;
 }
 
 
